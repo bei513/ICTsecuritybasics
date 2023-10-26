@@ -1,6 +1,6 @@
 # h1 Assignment
 
-##Summary & analysis of HELSEC presentation
+## Summary & analysis of HELSEC presentation
 Presentation was part of the HELSEC meetup at October. Presenter was Elias Alanko CISO of 3stepIT. 
 
 It started by defining some crucial terms in BEC (Business Email Compromise) scams. I joined 19.14 and presentation was already on and therefore I had to do some additional digging to understand difference between consepts. Also, as I am not technical person I was not sure what is the difference between pretexting and phising. Both are one type of social engineering. In pretexting scammer creates imaginary scenario to steel persons personal information. In phising scammer relies on sense of urgency. (Pettit 1 March 2023.)
