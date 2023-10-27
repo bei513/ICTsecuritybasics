@@ -1,5 +1,7 @@
 # h1 Assignment
 
+This assignment is part of the Tero Karvinen's course Trust to Blockchain 2023 autumn. (Karvinen 26 October 2023.)
+
 ## Summary & analysis of HELSEC presentation
 Presentation was part of the HELSEC meetup at October. Presenter was Elias Alanko CISO of 3stepIT. 
 
@@ -57,6 +59,8 @@ Alanko, E. 18 March 2018. Brief History of BEC Scams in Finland - Public 6-8 fig
 Comeau, Z. 8 March 2023. ChatGPT and Generative AI a 'Game Changer' but Issues Persist. My Tech Decisions. Compliance, IT Infrastructure, news. URL: https://mytechdecisions.com/compliance/chatgpt-and-generative-ai-a-game-changer-but-issues-persist/. Accessed: 27 October 2023.
 
 Jackson, T. 19 April 2023. Exploring the security risks of Generative AI. Forbes Technology Council. URL: https://www.forbes.com/sites/forbestechcouncil/2023/04/19/exploring-the-security-risks-of-generative-ai/?sh=736cd1d73594. Accessed: 27 October 2023.
+
+Karvinen, T. 26 October 2023. Trust to Blockchain 2023 autumn. Course task page. URL: https://terokarvinen.com/2023/trust-to-blockchain/. Accessed: 26 October 2023.
 
 Pettit, J. 1 March 2023. Social Engineering: Definition & 6 Attack Types. Tripwire Blog. URL: https://www.tripwire.com/state-of-security/5-social-engineering-attacks-to-watch-out-for. Accessed: 26 October 2023.
 
