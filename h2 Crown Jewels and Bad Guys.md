@@ -1,7 +1,7 @@
 # h2 Assignment
 This assignment is part of the Tero Karvinen's course Trust to Blockchain 2023 autumn. (Karvinen 2 November 2023.)
 
-## Article by Hutchins, E. Cloppert, M & Amin. R, summary
+## 1. Intelligence-driven CND, summary
 Definitions
 APT - advanced persistent threat
 CND - computer network defence model
@@ -21,7 +21,7 @@ Aim of the article is to give reader understanding what kind of models can be us
 Table 1. Example of intrusion attemp matrix (Hutchins & al.)
 ![image](https://github.com/bei513/ICTsecuritybasics/assets/149093922/aba4259b-2365-47f5-9290-dd925d549f6e)
 
-## Chapter 1, Threat modeling summary 
+## 2. Threat modeling, Chapter 1 summary 
 * Thread modeling is helping to find security problems, enhances to see the bigger picture, enhances to prevent problems before they exists and points out threats that might come to your way.
 
 (Shostack 2014.)
