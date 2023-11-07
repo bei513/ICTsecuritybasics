@@ -23,7 +23,8 @@ Table 1. Example of intrusion attemp matrix (Hutchins & al.)
 
 ## 2. Threat modeling, Chapter 1 summary 
 * Thread modeling is helping to find security problems, enhances to see the bigger picture, enhances to prevent problems before they exists and points out threats that might come to your way.
-
+* This chapter provides step by step instuctions of how you can do threat modeling with different tools like Elevation of Privilage game, STRIDE Mnemonic framework or threat modeling of your own
+* Provides a checklist to complete the modeling
 (Shostack 2014.)
 
 ## References
