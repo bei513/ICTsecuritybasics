@@ -45,13 +45,17 @@ Next I unzip the file and open readme.html and readme.mirrors.html. I am not sur
 In this point I have 2,5 hours before deadline and I still have thread model tasks to do. I desided to stop in this point and consentrate on next task.
 
 ## 4. Imaginary Boogie-man & Threat model
-I started by checking how I can make a table at Github. (Github 
+I started by checking how I can make a table at Github. (Github docs 2023.)
 
-| Product <br>
-| Risk <br>
-| Risk realization instuctions <br>
-| Checking the model <br>
+Imaginary situation: Construction company is calculating contract bonuses for workers manually. Sitemanagers are submitting workers hours and assembled rebar kilos manually to excel where is formulas calculating euros for each worker.
 
+| Product | Company wants to change excel to cloud, Power BI reporting, and instead of sitemanagers recording the hours and kilos <br> | 
+|         | manually these are coming from rebar detailing program and workforce management software through API to Power BI. Sitemanager are only verifying the data at Power BI with visual checking to make sure that the magnitude is correctc. <br>
+| Risk | <br>
+| Risk realization instuctions | <br>
+| Checking the model | <br>
+
+## 5. Incident analysis with cyber kill chain model
 
 ## References
 Debian CD levyillä. Debianin CD-vedosten imurointi Bittorrentilla. 6 October 2023. URL: https://www.debian.org/CD/torrent-cd/. Accessed: 8 November 2023. 
