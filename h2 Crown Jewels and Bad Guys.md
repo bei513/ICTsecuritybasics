@@ -45,13 +45,19 @@ Next I unzip the file and open readme.html and readme.mirrors.html. I am not sur
 In this point I have 2,5 hours before deadline and I still have thread model tasks to do. I desided to stop in this point and consentrate on next task.
 
 ## 4. Imaginary Boogie-man & Threat model
-I started by checking how I can make a table at Github. (Github docs 2023.). Decided it's easier to do at excel.
+I started by checking how I can make a table at Github. (Github docs 2023.) Decided it's easier to do at excel.
 
-Imaginary situation: Construction company is calculating contract bonuses for workers manually. Sitemanagers are submitting workers hours and assembled rebar kilos manually to excel where is formulas calculating euros for each worker.
+Imaginary situation: Construction company is calculating contract bonuses for workers manually. Site managers are submitting workers hours and assembled rebar kilos manually to excel where is formulas calculating euros for each worker.
 
 ![image](https://github.com/bei513/ICTsecuritybasics/assets/149093922/2250cd4a-0a51-4695-9c79-e03dc4314854) <br>
 Analyzing the model: <br>
 Construcion industry's reporting is still very manual in Finland. Digital transformation would bring a lot of efficiency to the industry and therefore there is a lot of potential for different kind of digitalization projects. Industry also moves around millions of Euros so therefore it is very attractive for intruders. Also, there is a lot of foreign workforse, gray econmy and foreign companies. All these issues are very attractive for frauds and for the criminal hacking. People who are doing the decisions are "Baby boomers" or "Gen X" who don't have that much technical understanding where workers start to be "Millenials" and "Zoomers" who have very good understanding the capabilities and limitations in technology. This allows employees to engage in misconduct without being caught immediately, if at all.
+
+Also, like can be seen from picture 1, persons involved in process are different in each touchpoint which increases the risk of passing on false information even more. In this case all the software are in cloud except detailing software.
+
+![image](https://github.com/bei513/ICTsecuritybasics/assets/149093922/fc8581a1-2988-4278-9363-2a82ea1bfc23)<br>
+Picture 1. Whiteboard diagram of the product
+
 
 
 ## 5. Incident analysis with cyber kill chain model
