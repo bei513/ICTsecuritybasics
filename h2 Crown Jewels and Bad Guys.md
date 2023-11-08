@@ -38,7 +38,7 @@ So I went back to knowledge-base. I started to read Debian GNU/Linux Installatio
 
 Next I unzip the file and open readme.html and readme.mirrors.html. I am not sure if I should do something else but as I don't understand what I am doing I decided to go ahead with next task in assignment - create a new virtual machine. So I downloaded VirtualBox 7.0.12 Windows host package. With a setup I got following error messages. 
 
-![Setup Extensions 25 10 2023 15 06 01](https://github.com/bei513/ICTsecuritybasics/assets/149093922/852e197e-2f24-4afb-a747-171ab5798b47)
+![Oracle VM VirtualBox 7 0 12 Setup 8 11 2023 14 56 25](https://github.com/bei513/ICTsecuritybasics/assets/149093922/89736e66-3df6-4b72-a1fe-358d8c2e0380)
 
 ![VirtualBox Installer 8 11 2023 14 57 39](https://github.com/bei513/ICTsecuritybasics/assets/149093922/b672067c-cd89-438b-9874-ff930f5bfe4c)
 
