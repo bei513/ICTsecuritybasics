@@ -56,13 +56,23 @@ Construcion industry's reporting is still very manual in Finland. Digital transf
 Also, like can be seen from picture 1, persons involved in process are different in each touchpoint which increases the risk of passing on false information even more. In this case all the software are in cloud except detailing software.
 
 ![image](https://github.com/bei513/ICTsecuritybasics/assets/149093922/fc8581a1-2988-4278-9363-2a82ea1bfc23)<br>
-Picture 1. Whiteboard diagram of the product
+Picture 1. Whiteboard diagram of the product (Shostack 2014, accordingly)
 
+## 5. Incident analysis with cyber kill chain framework
+I chose security incident to be Nordic Cloud's ransomware attack in Denmark.  It wiped all the customers' data in August 2023. (Datacenter Forum 24 August 2023.) Reason why I chose this insident was that I only use cloud services and I want to understand security risks better. I am not sure if I am able to complete the task by 17.40. However, I will upload this assignment and update it when it's ready.
 
+![image](https://github.com/bei513/ICTsecuritybasics/assets/149093922/409f432d-e67a-432e-a63a-7dd77d817a08)<br>
+Picture 2. Cyper kill chain (Hutchins & al., accordingly)
 
-## 5. Incident analysis with cyber kill chain model
+To be continued, WORK IN PROCESS, will be ready on 9.11.2023
 
 ## References
+Kesabji, D. 30 August 2023. Danish cloud-hosting provider, hit by a devastating ransomware attack. Conscia ThreatInsights.  URL: https://conscia.com/blog/cloudnordic-a-danish-cloud-hosting-provider-hit-by-devastating-ransomware-attack/. Accessed: 8 November 2023.
+
+Culafi, A. 25 August 2023. TechTarget News. CloudNordic loses most customer data after ransomware attack. URL: https://www.techtarget.com/searchsecurity/news/366549773/CloudNordic-loses-most-customer-data-after-ransomware-attack. Accessed: 8 November 2023.
+
+Datacenter Forum. 24 August 2023. Ransomware attack wipes all servers of Denmark's Cloudnordic. URL: https://www.datacenter-forum.com/cloudnordic-aps/ransomware-attack-wipes-all-servers-of-denmarks-cloudnordic#:~:text=Ransomware%20Attack%20Wipes%20All%20Servers%20of%20Denmark's%20CloudNordic,-Start&text=In%20a%20notice%20on%20its,lost%20access%20to%20all%20data.%E2%80%9D. Accessed: 2 November 2023.
+
 Debian CD levyillä. Debianin CD-vedosten imurointi Bittorrentilla. 6 October 2023. URL: https://www.debian.org/CD/torrent-cd/. Accessed: 8 November 2023. 
 
 Debian CD levyillä. VUKK. 6 October 2023. URL: https://www.debian.org/CD/faq/#mailing-list. Accessed: 8 November 2023.
