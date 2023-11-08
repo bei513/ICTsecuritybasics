@@ -45,7 +45,12 @@ Next I unzip the file and open readme.html and readme.mirrors.html. I am not sur
 In this point I have 2,5 hours before deadline and I still have thread model tasks to do. I desided to stop in this point and consentrate on next task.
 
 ## 4. Imaginary Boogie-man & Threat model
+I started by checking how I can make a table at Github. (Github 
 
+| Product
+| Risk
+| Risk realization instuctions
+| Checking the model
 
 
 ## References
@@ -58,9 +63,12 @@ Debian. 4 July 2023. Debianin hankkiminen. URL: https://www.debian.org/distrib/.
 Debian. 6 October 2023. Debian distribution: URL: https://www.debian.org/distrib/index.en.html. Accessed: 8 November 2023.
 
 Debian 2023. GNU/Linux Installation Guide. URL: https://www.debian.org/releases/stable/amd64/index.en.html. Accessed 8 November 2023.
+
 Debian on CDs/DVVs. 19 October 2023. Live install Images. URL: https://www.debian.org/CD/live/. Accessed: 8 November 2023.
 
 Debian. Reasons to Use Debian. 11 February 2022. URL: https://www.debian.org/intro/why_debian. Accessed: 8 November 2023. 
+
+Github docs 2023. Organizing information with tables. URL: https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables. Accessed: 8 November 2023.
 
 Karvinen, T. 2023. Install Debian on Virtualbox - Updated 2023. URL: https://terokarvinen.com/2021/install-debian-on-virtualbox/. Accesed: 8 November 2023. 
 
