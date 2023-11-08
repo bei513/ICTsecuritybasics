@@ -2,9 +2,9 @@
 This assignment is part of the Tero Karvinen's course Trust to Blockchain 2023 autumn. (Karvinen 2 November 2023.)
 
 ## 1. Intelligence-driven CND, summary
-Definitions
-APT - advanced persistent threat
-CND - computer network defence model
+Definitions<br>
+APT - advanced persistent threat<br>
+CND - computer network defence model<br>
 
 Aim of the article is to give reader understanding what kind of models can be used to defence, how to apply them in intelligence driven CND and explain these through a case study.
 
@@ -47,10 +47,10 @@ In this point I have 2,5 hours before deadline and I still have thread model tas
 ## 4. Imaginary Boogie-man & Threat model
 I started by checking how I can make a table at Github. (Github 
 
-| Product
-| Risk
-| Risk realization instuctions
-| Checking the model
+| Product <br>
+| Risk <br>
+| Risk realization instuctions <br>
+| Checking the model <br>
 
 
 ## References
