@@ -27,7 +27,24 @@ Table 1. Example of intrusion attemp matrix (Hutchins & al.)
 * Provides a checklist to complete the modeling
 (Shostack 2014.)
 
+## 3. Installing Debian on virtual box
+As a non-technical person, I had no idea what the assignment was. First I started to look the instructions and got totally confused. Couldn't understand what is Debian, what I'm downloading, how to download and what I suppose to do after downloading. Got stuck here as the instructions were really unclear and full of technical vocabulary. In this point I stopped, I was thinking that I am not able to do this with my knowledge. 
+
+Next day I got back to this assignment and now started by reading about Debian and virtual box, so in this point I understood that I am downloading Linux based virtual operating system to work in Windows PC. Live installation image allows this without any changes in hard drive. Got it - now I start to understand assignment a little bit. (Debian 2022 & 2023.)
+
+In this point I looked the assighment (Karvinen 2 November 2023) and Install Debian virtual box instructions (Karvinen 2023) again closely and I realized that I might understand what the task actually is. The day before I had two other course deadlines and obviously my brain was overwhelmed with that. Let's give it a try now.
+
+
+
 ## References
+Debian CD levyillä. VUKK. 6 October 2023. URL: https://www.debian.org/CD/faq/#mailing-list. Accessed: 8 November 2023.
+
+Debian on CDs/DVVs. 19 October 2023. Live install Images. URL: https://www.debian.org/CD/live/. Accessed: 8 November 2023.
+
+Debian. Reasons to Use Debian. 11 February 2022. URL: https://www.debian.org/intro/why_debian. Accessed: 8 November 2023. 
+
+Karvinen, T. 2023. Install Debian on Virtualbox - Updated 2023. URL: https://terokarvinen.com/2021/install-debian-on-virtualbox/. Accesed: 8 November 2023. 
+
 Karvinen, T. 2 November 2023. Trust to Blockchain 2023 autumn. Course task page. URL: https://terokarvinen.com/2023/trust-to-blockchain/#h2-crown-jewels-and-bad-guys. Accessed: 6 November 2023.
 
 Hutchins, E. Cloppert, M. Amin, R.  Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains. Lockheed Martin Corporation. URL: https://lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf. Accessed: 6 November 2023.
