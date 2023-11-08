@@ -44,6 +44,8 @@ Next I unzip the file and open readme.html and readme.mirrors.html. I am not sur
 
 In this point I have 2,5 hours before deadline and I still have thread model tasks to do. I desided to stop in this point and consentrate on next task.
 
+## 4. Imaginary Boogie-man & Threat model
+
 
 
 ## References
