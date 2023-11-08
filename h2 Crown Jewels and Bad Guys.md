@@ -33,12 +33,29 @@ As a non-technical person, I had no idea what the assignment was. First I starte
 Next day I got back to this assignment and now started by reading about Debian and virtual box, so in this point I understood that I am downloading Linux based virtual operating system to work in Windows PC. Live installation image allows this without any changes in hard drive. Got it - now I start to understand assignment a little bit. (Debian 2022 & 2023.)
 
 In this point I looked the assighment (Karvinen 2 November 2023) and Install Debian virtual box instructions (Karvinen 2023) again closely and I realized that I might understand what the task actually is. The day before I had two other course deadlines and obviously my brain was overwhelmed with that. Let's give it a try now.
+1. Googling "Debvian ISO image" - first problem appears, do I need to download BitTorrent version or just DVD/USB version. I read BitTorrent link and assume I don't need that. (Debian 6 October 2023). I click the downloading link and get very confused in this point. How to download?? I go back to previous page and start to read instructions again - do I need to download Calamares or Debvian-installer first?
+So I went back to knowledge-base. I started to read Debian GNU/Linux Installation Guide (Debian 2023) and finally chapter 1.5 there was a link to distribution page and there I could find downloadable link that was also downloadin. However, this page was outdated and didn't solve the problem. So I went to original English website and downloaded small package from there. In this point I am not at all sure what the heck I am doing... (Debian 6 October 2023.)
+
+Next I unzip the file and open readme.html and readme.mirrors.html. I am not sure if I should do something else but as I don't understand what I am doing I decided to go ahead with next task in assignment - create a new virtual machine. So I downloaded VirtualBox 7.0.12 Windows host package. With a setup I got following error messages. 
+
+![Setup Extensions 25 10 2023 15 06 01](https://github.com/bei513/ICTsecuritybasics/assets/149093922/852e197e-2f24-4afb-a747-171ab5798b47)
+
+![VirtualBox Installer 8 11 2023 14 57 39](https://github.com/bei513/ICTsecuritybasics/assets/149093922/b672067c-cd89-438b-9874-ff930f5bfe4c)
+
+In this point I have 2,5 hours before deadline and I still have thread model tasks to do. I desided to stop in this point and consentrate on next task.
 
 
 
 ## References
+Debian CD levyillä. Debianin CD-vedosten imurointi Bittorrentilla. 6 October 2023. URL: https://www.debian.org/CD/torrent-cd/. Accessed: 8 November 2023. 
+
 Debian CD levyillä. VUKK. 6 October 2023. URL: https://www.debian.org/CD/faq/#mailing-list. Accessed: 8 November 2023.
 
+Debian. 4 July 2023. Debianin hankkiminen. URL: https://www.debian.org/distrib/. Accessed: 8 November 2023.
+
+Debian. 6 October 2023. Debian distribution: URL: https://www.debian.org/distrib/index.en.html. Accessed: 8 November 2023.
+
+Debian 2023. GNU/Linux Installation Guide. URL: https://www.debian.org/releases/stable/amd64/index.en.html. Accessed 8 November 2023.
 Debian on CDs/DVVs. 19 October 2023. Live install Images. URL: https://www.debian.org/CD/live/. Accessed: 8 November 2023.
 
 Debian. Reasons to Use Debian. 11 February 2022. URL: https://www.debian.org/intro/why_debian. Accessed: 8 November 2023. 
