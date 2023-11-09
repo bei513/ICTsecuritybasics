@@ -64,7 +64,9 @@ I chose security incident to be Nordic Cloud's ransomware attack in Denmark.  It
 ![image](https://github.com/bei513/ICTsecuritybasics/assets/149093922/409f432d-e67a-432e-a63a-7dd77d817a08)<br>
 Picture 2. Cyper kill chain (Hutchins & al., accordingly)
 
-To be continued, WORK IN PROCESS, will be ready on 9.11.2023
+What I understood from the material available, infected servers were located in a different data center originally. Assumigly one server segment was infected, however I was unknown how it was done initially. Kesabji (30 August 2023) is pondering whether CloudNordic had sufficient visibility to servers and endpoints. When the servers were moved to another data center, they were accidentally connected to the internal network, ransomware affected to their administrative tools which made it possible to infect all server segments, including back ups. CloudNordic had server segmentation, which is good, however, there was a loophole to administration. So overall, humanfactor and technical error in administration tool together caused this incident.
+
+Even though events like this are very rare (the entire data is lost), it still occurs to me that when switching to cloud services, the customer should also check with the service provider how things have been handled by them.
 
 ## References
 Kesabji, D. 30 August 2023. Danish cloud-hosting provider, hit by a devastating ransomware attack. Conscia ThreatInsights.  URL: https://conscia.com/blog/cloudnordic-a-danish-cloud-hosting-provider-hit-by-devastating-ransomware-attack/. Accessed: 8 November 2023.
